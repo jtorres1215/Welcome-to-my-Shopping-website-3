@@ -1,0 +1,46 @@
+h1 {
+    display:flex;
+    justify-content:center;
+    color:lime;
+}
+.header {
+    border:10px gray solid;
+}
+.welcoming {
+    border:10px;
+}
+h2 {
+    display:flex;
+    justify-content:center;
+    color:red;
+}
+h3 {
+    display:flex;
+    justify-content:center;
+    color:Ivory;
+}
+body {
+    background-image:url("https://wallpapertag.com/wallpaper/full/7/b/1/493091-cool-rainbow-backgrounds-1920x1080-cell-phone.jpg");
+    background-size:1500px;
+}
+div {
+    display:flex;
+    justify-content:center;
+    padding:10px;
+}
+.item {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid gold;
+}
+
+p {
+    color:white;
+    font-size:20px;
+}
+button {
+    background-color: red;   
+    color: white;
+    border: 2px solid black;
+    padding:2px;
+}
